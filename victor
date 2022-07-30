@@ -371,6 +371,7 @@ http://4kiptv.vip:25461/ESJS4ZVHNQGRCXU/ZZYZZNFHRCKZV0J/191298
 http://4kiptv.vip:25461/ESJS4ZVHNQGRCXU/ZZYZZNFHRCKZV0J/191299
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL IPE HD (3)" tvg-logo="http://vplay.club:8888/images/a6f1c2b7ad4596119dc0e3de1e374e78.png" group-title="PERU",PERU | CANAL IPE HD (3)
 http://vplay.club:8888/567/567/49713
 #EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N (1)" tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" group-title="PERU",PERU | CANAL N (1)
@@ -544,3 +545,56 @@ http://vplay.club:8888/567/567/141260
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN HD (1)" tvg-logo="http://vplay.club:8888/images/2e919b7e465da0c85b58943f21294e26.png" group-title="CHILE",CHILE | TVN HD (1)
+http://vplay.club:8888/567/567/49168
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV+ (MOVIL) (1)" tvg-logo="http://vplay.club:8888/images/9c189a8bda005f070afa3f80f8053f53.png" group-title="CHILE",CHILE | TV+ (MOVIL) (1)
+http://vplay.club:8888/567/567/49176
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 24 HORAS HD (4)" tvg-logo="http://vplay.club:8888/images/743bb3eabbef0633922a824ab909f166.png" group-title="CHILE",CHILE | CANAL 24 HORAS HD (4)
+http://vplay.club:8888/567/567/49180
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | REC TV (4)" tvg-logo="http://vplay.club:8888/images/826f9e6c017ab503fc7312b14e0cf529.png" group-title="CHILE",CHILE | REC TV (4)
+http://vplay.club:8888/567/567/49186
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CAROLINA TV (1)" tvg-logo="http://vplay.club:8888/images/d93c6374963f6f66fe7dcec4e0910569.png" group-title="CHILE",CHILE | CAROLINA TV (1)
+http://vplay.club:8888/567/567/49188
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | SPORTS CDO PREMIUM (1)" tvg-logo="http://vplay.club:8888/images/e053badf71b7f40636c63e88ad3a87f1.png" group-title="CHILE",CHILE | SPORTS CDO PREMIUM (1)
+http://vplay.club:8888/567/567/47374
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | SPORTS CDO BASICO (1)" tvg-logo="http://vplay.club:8888/images/e88c73ee20146daa7f8b88fd77adc2ef.png" group-title="CHILE",CHILE | SPORTS CDO BASICO (1)
+http://vplay.club:8888/567/567/47373
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ETC TV (1)" tvg-logo="http://vplay.club:8888/images/9501ebc873c0595ec0f1e237a16aa407.png" group-title="CHILE",CHILE | ETC TV (1)
+http://vplay.club:8888/567/567/70001
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | MEGA (1)" tvg-logo="http://vplay.club:8888/images/489341640799835b7547d6e7d608be35.png" group-title="CHILE",CHILE | MEGA (1)
+http://vplay.club:8888/567/567/70004
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | LA RED (1)" tvg-logo="http://vplay.club:8888/images/d76e70db085202bcdf959822eebc5734.png" group-title="CHILE",CHILE | LA RED (1)
+http://vplay.club:8888/567/567/70005
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CHILEVISION (1)" tvg-logo="http://vplay.club:8888/images/6726da8b47f257215a0e9941a3dba51d.png" group-title="CHILE",CHILE | CHILEVISION (1)
+http://vplay.club:8888/567/567/70193
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV+ (1)" tvg-logo="http://vplay.club:8888/images/eab9c1a630ea84e19ff3ef10066f2d30.png" group-title="CHILE",CHILE | TV+ (1)
+http://vplay.club:8888/567/567/70198
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS 2 (1)" tvg-logo="http://vplay.club:8888/images/2cf36d58c9a609c802465efe350dacb8.png" group-title="CHILE",CHILE | TNT SPORTS 2 (1)
+http://vplay.club:8888/567/567/70200
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV CHILE (1)" tvg-logo="http://vplay.club:8888/images/65ff0e5fa03dd867989a4172f78c3793.png" group-title="CHILE",CHILE | TV CHILE (1)
+http://vplay.club:8888/567/567/70287
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS 3 (4)" tvg-logo="http://vplay.club:8888/images/81612f78e315aeeda90e3f7c094c4644.png" group-title="CHILE",CHILE | TNT SPORTS 3 (4)
+http://vplay.club:8888/567/567/70201
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | DW ESPAÑOL (1)" tvg-logo="http://vplay.club:8888/images/fa915e7fc0b129d178990d8b0fd781bd.png" group-title="CHILE",CHILE | DW ESPAÑOL (1)
+http://vplay.club:8888/567/567/70293
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CAROLINA TV (1)" tvg-logo="http://vplay.club:8888/images/1900fdcff8dce16eb92854b92aab7524.png" group-title="CHILE",CHILE | CAROLINA TV (1)
+http://vplay.club:8888/567/567/70286
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ESTADIO TNT SPORTS (1)" tvg-logo="http://vplay.club:8888/images/88081b9e4cdf608837e1c589c8ec608d.png" group-title="CHILE",CHILE | ESTADIO TNT SPORTS (1)
+http://vplay.club:8888/567/567/70290
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TELETRAK (1)" tvg-logo="http://vplay.club:8888/images/63f1f4932b7742acff4012b1abbf481e.png" group-title="CHILE",CHILE | TELETRAK (1)
+http://vplay.club:8888/567/567/70291
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVU CONCEPCIÓN (4)" tvg-logo="http://vplay.club:8888/images/5a726e5a9049ce87422aede499129d8f.png" group-title="CHILE",CHILE | TVU CONCEPCIÓN (4)
+http://vplay.club:8888/567/567/96686
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV+ (5)" tvg-logo="http://vplay.club:8888/images/c8dab9ffb287f40c40a68948ac92e73f.png" group-title="CHILE",CHILE | TV+ (5)
+http://vplay.club:8888/567/567/96690
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | 24 HORAS (1)" tvg-logo="http://vplay.club:8888/images/743bb3eabbef0633922a824ab909f166.png" group-title="CHILE",CHILE | 24 HORAS (1)
+http://vplay.club:8888/567/567/70192
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN OPC 2 (1)" tvg-logo="http://vplay.club:8888/images/2e919b7e465da0c85b58943f21294e26.png" group-title="CHILE",CHILE | TVN OPC 2 (1)
+http://vplay.club:8888/567/567/132870
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 HD (4)" tvg-logo="http://vplay.club:8888/images/08ac239e2dc10962de4ddb298b03e0ac.png" group-title="CHILE",CHILE | CANAL 13 HD (4)
+http://vplay.club:8888/567/567/49156
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | ESPN 2 (FHD) (5)" tvg-logo="http://vplay.club:8888/images/b02e0b7ec303a67a6e951df45fc75a65.png" group-title="CHILE",CHILE | ESPN 2 (FHD) (5)
+http://vplay.club:8888/567/567/98665
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS (4)" tvg-logo="http://vplay.club:8888/images/638fd9ad1a37cdb69b4b5fc8a9b2bc39.png" group-title="CHILE",CHILE | TNT SPORTS (4)
+http://vplay.club:8888/567/567/70199
