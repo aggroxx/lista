@@ -372,26 +372,11 @@ http://4kiptv.vip:25461/ESJS4ZVHNQGRCXU/ZZYZZNFHRCKZV0J/191299
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL IPE HD (3)" tvg-logo="http://vplay.club:8888/images/a6f1c2b7ad4596119dc0e3de1e374e78.png" group-title="PERU",PERU | CANAL IPE HD (3)
-http://vplay.club:8888/567/567/49713
-#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N (1)" tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" group-title="PERU",PERU | CANAL N (1)
-http://vplay.club:8888/567/567/49714
-#EXTINF:-1 tvg-id="" tvg-name="PERU | WILLAX TV (4)" tvg-logo="http://vplay.club:8888/images/26cd25601ca68b691d08a6e5643e480e.png" group-title="PERU",PERU | WILLAX TV (4)
-http://vplay.club:8888/567/567/49741
-#EXTINF:-1 tvg-id="" tvg-name="PERU | FRECUENCIA LATINA (6) " tvg-logo="http://vplay.club:8888/images/9fc39f15768327e25bfa8ae1f48a0fb1.png" group-title="PERU",PERU | FRECUENCIA LATINA (6) 
-http://vplay.club:8888/567/567/70023
-#EXTINF:-1 tvg-id="la1.es" tvg-name="(3) PERU | ANTARES TELEVISION" tvg-logo="http://vplay.club:8888/images/34a506b4d74a023b02953fe680f26616.png" group-title="PERU",(3) PERU | ANTARES TELEVISION
-http://vplay.club:8888/567/567/72800
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | ASIRITV " tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="PERU",(3) PERU | ASIRITV 
-http://vplay.club:8888/567/567/72801
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | BEXTREME TV (LIMA) FHD" tvg-logo="http://vplay.club:8888/images/5a241ed65724afecdb3ef063dcd03a42.png" group-title="PERU",(3) PERU | BEXTREME TV (LIMA) FHD
-http://vplay.club:8888/567/567/72808
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | BHTV HD" tvg-logo="http://vplay.club:8888/images/b133cefb0a0ba78b33c135a3b149be7a.png" group-title="PERU",(3) PERU | BHTV HD
+#EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL IPE HD (3)" tvg-logo="http://vplay.club:8888/images/a6f1c2b7ad4596119dc0e3de1e374e78.png" group-title="PERU",PERU | CANAL IPE HD (3http://vplay.club:8888/567/567/72808(3) PERU | BHTV HD" tvg-logo="http://vplay.club:8888/images/b133cefb0a0ba78b33c135a3b149be7a.png" group-title="PERU",(3) PERU | BHTV HD
 http://vplay.club:8888/567/567/72809
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | CANAL 8 (CATACAOS) " tvg-logo="http://vplay.club:8888/images/c7d1176981cc46975c25cbcf4d9ff0fd.png" group-title="PERU",(3) PERU | CANAL 8 (CATACAOS) 
 http://vplay.club:8888/567/567/72814
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | CENTRAL TV (CHOSICA) HD" tvg-logo="http://vplay.club:8888/images/5e141f012c0c9d50f8e550eb7cf0291c.png" group-title="PERU",(3) PERU | CENTRAL TV (CHOSICA) HD
-http://vplay.club:8888/567/567/72815
+#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | CENTRAL TV (CHOSICA) HD" tvg-logo="http://vplay.club:8888/images/5e141f012c0c9d50f8e550eb7cf0291c.png" group-title="PERU",(3) PERU | CENTRAL TV (CHOSICA) HDhttp://vplay.club:8888/567/567/72815
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | CHICOS IPE " tvg-logo="http://vplay.club:8888/images/8523955e1ab8c307fad85b8b9d9870a1.png" group-title="PERU",(3) PERU | CHICOS IPE 
 http://vplay.club:8888/567/567/72816
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | CULTURA 24 HD" tvg-logo="http://vplay.club:8888/images/0db1d5f9bc5aaa8c2f8f97d44601e174.png" group-title="PERU",(3) PERU | CULTURA 24 HD
@@ -400,14 +385,7 @@ http://vplay.club:8888/567/567/72823
 http://vplay.club:8888/567/567/72824
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | DMJ (CUZCO)" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="PERU",(3) PERU | DMJ (CUZCO)
 http://vplay.club:8888/567/567/72825
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | GOLD VALLEY TV (CASMA)" tvg-logo="https://graph.facebook.com/Goldvalleytvcasma/picture?width=320&height=320" group-title="PERU",(3) PERU | GOLD VALLEY TV (CASMA)
-http://vplay.club:8888/567/567/72833
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | IDENTIDAD TV" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="PERU",(3) PERU | IDENTIDAD TV
-http://vplay.club:8888/567/567/72838
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | IMAGEN TELEVISION (RIOJA) HD" tvg-logo="http://vplay.club:8888/images/96faf1b676cc9406b1e5ea370b9077d9.png" group-title="PERU",(3) PERU | IMAGEN TELEVISION (RIOJA) HD
-http://vplay.club:8888/567/567/72839
-#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | IMPACTO TELEVISION (CAJAMARCA) " tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="PERU",(3) PERU | IMPACTO TELEVISION (CAJAMARCA) 
-http://vplay.club:8888/567/567/72840
+#EXTINF:-1 tvg-id="" tvg-name="(3) PERU | GOLD VALLEY TV (CASMA)" tvg-logo="https://graph.facebook.com/Goldvalleytvcasma/picture?width=320&height=320" group-title="P
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | LA RIBEREÑA (PUCALLPA)" tvg-logo="https://graph.facebook.com/lariberenapucallpa/picture?width=320&height=320" group-title="PERU",(3) PERU | LA RIBEREÑA (PUCALLPA)
 http://vplay.club:8888/567/567/72848
 #EXTINF:-1 tvg-id="" tvg-name="(3) PERU | LIMALIVE" tvg-logo="https://graph.facebook.com/GrupoLimaLive/picture?width=320&height=320" group-title="PERU",(3) PERU | LIMALIVE
@@ -576,28 +554,5 @@ http://vplay.club:8888/567/567/70200
 http://vplay.club:8888/567/567/70287
 #EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS 3 (4)" tvg-logo="http://vplay.club:8888/images/81612f78e315aeeda90e3f7c094c4644.png" group-title="CHILE",CHILE | TNT SPORTS 3 (4)
 http://vplay.club:8888/567/567/70201
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | DW ESPAÑOL (1)" tvg-logo="http://vplay.club:8888/images/fa915e7fc0b129d178990d8b0fd781bd.png" group-title="CHILE",CHILE | DW ESPAÑOL (1)
-http://vplay.club:8888/567/567/70293
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CAROLINA TV (1)" tvg-logo="http://vplay.club:8888/images/1900fdcff8dce16eb92854b92aab7524.png" group-title="CHILE",CHILE | CAROLINA TV (1)
-http://vplay.club:8888/567/567/70286
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | ESTADIO TNT SPORTS (1)" tvg-logo="http://vplay.club:8888/images/88081b9e4cdf608837e1c589c8ec608d.png" group-title="CHILE",CHILE | ESTADIO TNT SPORTS (1)
-http://vplay.club:8888/567/567/70290
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TELETRAK (1)" tvg-logo="http://vplay.club:8888/images/63f1f4932b7742acff4012b1abbf481e.png" group-title="CHILE",CHILE | TELETRAK (1)
-http://vplay.club:8888/567/567/70291
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVU CONCEPCIÓN (4)" tvg-logo="http://vplay.club:8888/images/5a726e5a9049ce87422aede499129d8f.png" group-title="CHILE",CHILE | TVU CONCEPCIÓN (4)
-http://vplay.club:8888/567/567/96686
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TV+ (5)" tvg-logo="http://vplay.club:8888/images/c8dab9ffb287f40c40a68948ac92e73f.png" group-title="CHILE",CHILE | TV+ (5)
-http://vplay.club:8888/567/567/96690
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | 24 HORAS (1)" tvg-logo="http://vplay.club:8888/images/743bb3eabbef0633922a824ab909f166.png" group-title="CHILE",CHILE | 24 HORAS (1)
-http://vplay.club:8888/567/567/70192
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TVN OPC 2 (1)" tvg-logo="http://vplay.club:8888/images/2e919b7e465da0c85b58943f21294e26.png" group-title="CHILE",CHILE | TVN OPC 2 (1)
-http://vplay.club:8888/567/567/132870
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | CANAL 13 HD (4)" tvg-logo="http://vplay.club:8888/images/08ac239e2dc10962de4ddb298b03e0ac.png" group-title="CHILE",CHILE | CANAL 13 HD (4)
-http://vplay.club:8888/567/567/49156
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | ESPN 2 (FHD) (5)" tvg-logo="http://vplay.club:8888/images/b02e0b7ec303a67a6e951df45fc75a65.png" group-title="CHILE",CHILE | ESPN 2 (FHD) (5)
-http://vplay.club:8888/567/567/98665
-#EXTINF:-1 tvg-id="" tvg-name="CHILE | TNT SPORTS (4)" tvg-logo="http://vplay.club:8888/images/638fd9ad1a37cdb69b4b5fc8a9b2bc39.png" group-title="CHILE",CHILE | TNT SPORTS (4)
-http://vplay.club:8888/567/567/70199
-
-
+#EXT
 
