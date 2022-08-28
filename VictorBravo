@@ -377,5 +377,179 @@ http://mivacuna-sispro.info:8888/22/22/47415
 #EXTINF:-1 tvg-id="" tvg-name="PERU | GOL PERU (6)" tvg-logo="http://vplay.club:8888/images/ebf768f19bab9d2ce4d99599c8f3bb93.png" group-title="LIGAS SUDAMERICANAS",PERU | GOL PERU (6)
 http://mivacuna-sispro.info:8888/22/22/120281
 #EXTINF:-1 tv
+g-id="" tvg-name="DEPORTES FULL HD | GOL TV PERU (1)" tvg-logo="http://vplay.club:8888/images/0968ab348cdfee0b8b31ef70d4578b1c.png" group-title="DEPORTES FULL HD",DEPORTES FULL HD | GOL TV PERU (1)
+http://mivacuna-sispro.info:8888/22/22/70566
+#EXTINF:-1 tv
+g-id="" tvg-name="MUSIC | GALACTICA TV (PERU) (1080P) [NOT 24/7] (3)" tvg-logo="https://graph.facebook.com/RCGalacticatv/picture?width=320&height=320" group-title="MUSICA",MUSIC | GALACTICA TV (PERU) (1080P) [NOT 24/7] (3)
+http://mivacuna-sispro.info:8888/22/22/133495
+g-id="" tvg-name="PER NEWS | TVPERU NOTICIAS (5)" tvg-logo="http://vplay.club:8888/images/a785dd7ced40eb259034752d8b1d6355.png" group-title="NOTICIAS / NEWS",PER NEWS | TVPERU NOTICIAS (5)
+http://mivacuna-sispro.info:8888/22/22/95904
+#EXTINF:-1 tv
+g-id="" tvg-name="PER NEWS | PERU NOTICIAS (5)" tvg-logo="http://vplay.club:8888/images/96bab9739a026dcc37a476911ccb4d9a.png" group-title="NOTICIAS / NEWS",PER NEWS | PERU NOTICIAS (5)
+http://mivacuna-sispro.info:8888/22/22/95908
+#EXTINF:-1 tv
+g-id="" tvg-name="PER NEWS | Peru Noticias" tvg-logo="http://vplay.club:8888/images/6485aa64b6429d51fe64782cf517d989.png" group-title="NOTICIAS / NEWS",PER NEWS | Peru Noticias
+http://mivacuna-sispro.info:8888/22/22/136244
+#EXTINF:-1 tv
+g-id="" tvg-name="PER NEWS | TVPERU NOTICIAS" tvg-logo="http://vplay.club:8888/images/a785dd7ced40eb259034752d8b1d6355.png" group-title="NOTICIAS / NEWS",PER NEWS | TVPERU NOTICIAS
+http://mivacuna-sispro.info:8888/22/22/136240
 
+
+id="" tvg-name="PE19 | CANAL IPE HD" tvg-logo="http://vplay.club:8888/images/a6f1c2b7ad4596119dc0e3de1e374e78.png" group-title="PERU",PE19 | CANAL IPE HD
+http://mivacuna-sispro.info:8888/22/22/49713
+#EXTINF:-1 tvg-id="canaln.pe" tvg-name="PE01 | CANAL N" tvg-logo="http://vplay.club:8888/images/6b04f2d93f1b51bcb3738fd676d475db.png" group-title="PERU",PE01 | CANAL N
+http://mivacuna-sispro.info:8888/22/22/49714
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="PE08 | WILLAX TV HD" tvg-logo="http://vplay.club:8888/images/26cd25601ca68b691d08a6e5643e480e.png" group-title="PERU",PE08 | WILLAX TV HD
+http://mivacuna-sispro.info:8888/22/22/49741
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PE03 | FRECUENCIA LATINA" tvg-logo="http://vplay.club:8888/images/9fc39f15768327e25bfa8ae1f48a0fb1.png" group-title="PERU",PE03 | FRECUENCIA LATINA
+http://mivacuna-sispro.info:8888/22/22/70023
+#EXTINF:-1 tvg-id="la1.es" tvg-name="PE24 | ANTARES TELEVISION" tvg-logo="http://vplay.club:8888/images/34a506b4d74a023b02953fe680f26616.png" group-title="PERU",PE24 | ANTARES TELEVISION
+http://mivacuna-sispro.info:8888/22/22/72800
+#EXTINF:-1 tvg-id="" tvg-name="PE31 | ASIRITV " tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" group-title="PERU",PE31 | ASIRITV 
+http://mivacuna-sispro.info:8888/22/22/72801
+#EXTINF:-1 tvg-id="" tvg-name="PE32| BEXTREME TV (LIMA) FHD" tvg-logo="http://vplay.club:8888/images/5a241ed65724afecdb3ef063dcd03a42.png" group-title="PERU",PE32| BEXTREME TV (LIMA) FHD
+http://mivacuna-sispro.info:8888/22/22/72808
+#EXTINF:-1 tvg-id="" tvg-name="PE33 | BHTV HD" tvg-logo="http://vplay.club:8888/images/b133cefb0a0ba78b33c135a3b149be7a.png" group-title="PERU",PE33 | BHTV HD
+http://mivacuna-sispro.info:8888/22/22/72809
+#EXTINF:-1 tvg-id="" tvg-name="PE34 | CANAL 8 (CATACAOS) " tvg-logo="http://vplay.club:8888/images/c7d1176981cc46975c25cbcf4d9ff0fd.png" group-title="PERU",PE34 | CANAL 8 (CATACAOS) 
+http://mivacuna-sispro.info:8888/22/22/72814
+#EXTINF:-1 tvg-id="" tvg-name="PE77 | CENTRAL TV (CHOSICA) HD" tvg-logo="http://vplay.club:8888/images/5e141f012c0c9d50f8e550eb7cf0291c.png" group-title="PERU",PE77 | CENTRAL TV (CHOSICA) HD
+http://mivacuna-sispro.info:8888/22/22/72815
+#EXTINF:-1 tvg-id="" tvg-name="PE76 | CHICOS IPE " tvg-logo="http://vplay.club:8888/images/8523955e1ab8c307fad85b8b9d9870a1.png" group-title="PERU",PE76 | CHICOS IPE 
+http://mivacuna-sispro.info:8888/22/22/72816
+#EXTINF:-1 tvg-id="" tvg-name="PE74 | CULTURA 24 HD" tvg-logo="http://vplay.club:8888/images/0db1d5f9bc5aaa8c2f8f97d44601e174.png" group-title="PERU",PE74 | CULTURA 24 HD
+http://mivacuna-sispro.info:8888/22/22/72823
+#EXTINF:-1 tvg-id="" tvg-name="PE73 | DIARIO HECHICERIA (TUMBES) HD" tvg-logo="https://graph.facebook.com/diariohechicera/picture?width=320&height=320" group-title="PERU",PE73 | DIARIO HECHICERIA (TUMBES) HD
+http://mivacuna-sispro.info:8888/22/22/72824
+#EXTINF:-1 tvg-id="" tvg-name="PE72 | DMJ (CUZCO)" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="PERU",PE72 | DMJ (CUZCO)
+http://mivacuna-sispro.info:8888/22/22/72825
+#EXTINF:-1 tvg-id="" tvg-name="PE69 | GOLD VALLEY TV (CASMA)" tvg-logo="https://graph.facebook.com/Goldvalleytvcasma/picture?width=320&height=320" group-title="PERU",PE69 | GOLD VALLEY TV (CASMA)
+http://mivacuna-sispro.info:8888/22/22/72833
+#EXTINF:-1 tvg-id="" tvg-name="PE68 | IDENTIDAD TV" tvg-logo="https://graph.facebook.com/IDENTIDADTVOFICIAL/picture?width=320&height=320" group-title="PERU",PE68 | IDENTIDAD TV
+http://mivacuna-sispro.info:8888/22/22/72838
+#EXTINF:-1 tvg-id="" tvg-name="PE67 | IMAGEN TELEVISION (RIOJA) HD" tvg-logo="http://vplay.club:8888/images/96faf1b676cc9406b1e5ea370b9077d9.png" group-title="PERU",PE67 | IMAGEN TELEVISION (RIOJA) HD
+http://mivacuna-sispro.info:8888/22/22/72839
+#EXTINF:-1 tvg-id="" tvg-name="PE66 | IMPACTO TELEVISION (CAJAMARCA) " tvg-logo="https://graph.facebook.com/WWW.RADIOIMPACTODECAJAMARCA.COM.PE/picture?width=320&height=320" group-title="PERU",PE66 | IMPACTO TELEVISION (CAJAMARCA) 
+http://mivacuna-sispro.info:8888/22/22/72840
+#EXTINF:-1 tvg-id="" tvg-name="PE64 | LA RIBEREÑA (PUCALLPA)" tvg-logo="https://graph.facebook.com/lariberenapucallpa/picture?width=320&height=320" group-title="PERU",PE64 | LA RIBEREÑA (PUCALLPA)
+http://mivacuna-sispro.info:8888/22/22/72848
+#EXTINF:-1 tvg-id="" tvg-name="PE63 | LIMALIVE" tvg-logo="https://graph.facebook.com/GrupoLimaLive/picture?width=320&height=320" group-title="PERU",PE63 | LIMALIVE
+http://mivacuna-sispro.info:8888/22/22/72850
+#EXTINF:-1 tvg-id="" tvg-name="PE62 | LOTPLUS TV (CHICLAYO) " tvg-logo="https://graph.facebook.com/Lotplustv2021/picture?width=320&height=320" group-title="PERU",PE62 | LOTPLUS TV (CHICLAYO) 
+http://mivacuna-sispro.info:8888/22/22/72852
+#EXTINF:-1 tvg-id="" tvg-name="PE36 | MASTER TV (TARAPOTO)" tvg-logo="https://graph.facebook.com/169404973238869/picture?width=320&height=320" group-title="PERU",PE36 | MASTER TV (TARAPOTO)
+http://mivacuna-sispro.info:8888/22/22/72853
+#EXTINF:-1 tvg-id="" tvg-name="PE60 | MILLENIUM 49 TV (PUCALPA) HD" tvg-logo="http://vplay.club:8888/images/5a1d796ce53de981e8a7dd1136d6606f.png" group-title="PERU",PE60 | MILLENIUM 49 TV (PUCALPA) HD
+http://mivacuna-sispro.info:8888/22/22/72856
+#EXTINF:-1 tvg-id="" tvg-name="PE59 | MINEDU IPTV 1" tvg-logo="https://graph.facebook.com/mineduperu/picture?width=320&height=320" group-title="PERU",PE59 | MINEDU IPTV 1
+http://mivacuna-sispro.info:8888/22/22/72858
+#EXTINF:-1 tvg-id="" tvg-name="PE58 | MINEDU IPTV 2 " tvg-logo="https://graph.facebook.com/mineduperu/picture?width=320&height=320" group-title="PERU",PE58 | MINEDU IPTV 2 
+http://mivacuna-sispro.info:8888/22/22/72859
+#EXTINF:-1 tvg-id="" tvg-name="PE57 | OK TEVE (YURIMAGUAS) HD" tvg-logo="https://graph.facebook.com/OKTelevision.pe/picture?width=320&height=320" group-title="PERU",PE57 | OK TEVE (YURIMAGUAS) HD
+http://mivacuna-sispro.info:8888/22/22/72865
+#EXTINF:-1 tvg-id="" tvg-name="PE56 | ONDA DIGITAL FHD" tvg-logo="http://vplay.club:8888/images/18918593b08348aa3b587d5b098b325c.jpg" group-title="PERU",PE56 | ONDA DIGITAL FHD
+http://mivacuna-sispro.info:8888/22/22/72867
+#EXTINF:-1 tvg-id="" tvg-name="PE55 | OVACION TV (LIMA) HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Ovacion_logo.jpg/revision/latest?cb=20210406165628&path-prefix=es" group-title="PERU",PE55 | OVACION TV (LIMA) HD
+http://mivacuna-sispro.info:8888/22/22/72868
+#EXTINF:-1 tvg-id="" tvg-name="PE81 | PERU CHANNEL SD" tvg-logo="http://vplay.club:8888/images/4d2d881c2d195fe4d91ce2066e6a817e.png" group-title="PERU",PE81 | PERU CHANNEL SD
+http://mivacuna-sispro.info:8888/22/22/72873
+#EXTINF:-1 tvg-id="" tvg-name="PE54 | PLANEA TV BAGUA HD" tvg-logo="http://vplay.club:8888/images/915c4aac87440a20ce8477e5e9116c37.png" group-title="PERU",PE54 | PLANEA TV BAGUA HD
+http://mivacuna-sispro.info:8888/22/22/72876
+#EXTINF:-1 tvg-id="" tvg-name="PE53 | PLANETA TV MOYOBAMBA HD" tvg-logo="https://graph.facebook.com/PlanetaTeleInformativo/picture?width=320&height=320" group-title="PERU",PE53 | PLANETA TV MOYOBAMBA HD
+http://mivacuna-sispro.info:8888/22/22/72877
+#EXTINF:-1 tvg-id="" tvg-name="PE52 | PROYECTA TELEVISION (HUACHO)" tvg-logo="https://graph.facebook.com/101589915090069/picture?width=320&height=320" group-title="PERU",PE52 | PROYECTA TELEVISION (HUACHO)
+http://mivacuna-sispro.info:8888/22/22/72880
+#EXTINF:-1 tvg-id="" tvg-name="PE51 | QUILLAVISION (CUZCO)" tvg-logo="https://graph.facebook.com/459651607763457/picture?width=320&height=320" group-title="PERU",PE51 | QUILLAVISION (CUZCO)
+http://mivacuna-sispro.info:8888/22/22/72884
+#EXTINF:-1 tvg-id="" tvg-name="PE50 | RADIO SAN BORJA HD" tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="PERU",PE50 | RADIO SAN BORJA HD
+http://mivacuna-sispro.info:8888/22/22/72888
+#EXTINF:-1 tvg-id="" tvg-name="PE49 | RADIO TROPICAL TARAPOTO SD" tvg-logo="http://vplay.club:8888/images/30bc2d32ac361236a0a8248d6d7d31cc.png" group-title="PERU",PE49 | RADIO TROPICAL TARAPOTO SD
+http://mivacuna-sispro.info:8888/22/22/72890
+#EXTINF:-1 tvg-id="" tvg-name="PE47 | RETRO PLUS HD" tvg-logo="http://vplay.club:8888/images/90e997c2719a17d7317310b1c72bd043.png" group-title="PERU",PE47 | RETRO PLUS HD
+http://mivacuna-sispro.info:8888/22/22/72896
+#EXTINF:-1 tvg-id="" tvg-name="PE48 | RETRO PLUS 2 HD" tvg-logo="http://vplay.club:8888/images/90e997c2719a17d7317310b1c72bd043.png" group-title="PERU",PE48 | RETRO PLUS 2 HD
+http://mivacuna-sispro.info:8888/22/22/72897
+#EXTINF:-1 tvg-id="" tvg-name="PE39 | SOL STEREO TV (CASMA)" tvg-logo="https://graph.facebook.com/solstereotvcasma/picture?width=320&height=320" group-title="PERU",PE39 | SOL STEREO TV (CASMA)
+http://mivacuna-sispro.info:8888/22/22/72905
+#EXTINF:-1 tvg-id="" tvg-name="PE45 | STEREO TV " tvg-logo="https://graph.facebook.com/StereotvOficial/picture?width=320&height=320" group-title="PERU",PE45 | STEREO TV 
+http://mivacuna-sispro.info:8888/22/22/72909
+#EXTINF:-1 tvg-id="" tvg-name="PE44 | SUMAC TV (LIMA)" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320" group-title="PERU",PE44 | SUMAC TV (LIMA)
+http://mivacuna-sispro.info:8888/22/22/72910
+#EXTINF:-1 tvg-id="" tvg-name="PE43 | TURBO MIX RADIO TV SD" tvg-logo="https://graph.facebook.com/235129376518344/picture?width=320&height=320" group-title="PERU",PE43 | TURBO MIX RADIO TV SD
+http://mivacuna-sispro.info:8888/22/22/72926
+#EXTINF:-1 tvg-id="" tvg-name="PE42 | TV NOTICIAS 7.3 " tvg-logo="http://vplay.club:8888/images/5ae0c1c8a5260bc7b6648f6fbd115c35.jpg" group-title="PERU",PE42 | TV NOTICIAS 7.3 
+http://mivacuna-sispro.info:8888/22/22/72930
+#EXTINF:-1 tvg-id="" tvg-name="PE40 | TV PERUANISIMA HD" tvg-logo="https://graph.facebook.com/HenryAyalaProductions/picture?width=320&height=320" group-title="PERU",PE40 | TV PERUANISIMA HD
+http://mivacuna-sispro.info:8888/22/22/72932
+#EXTINF:-1 tvg-id="" tvg-name="PE38 | VAMISA TV (LIMA) " tvg-logo="https://graph.facebook.com/RadioVamisaTelevision/picture?width=320&height=320" group-title="PERU",PE38 | VAMISA TV (LIMA) 
+http://mivacuna-sispro.info:8888/22/22/72942
+#EXTINF:-1 tvg-id="" tvg-name="PE37 | VIA ALTOMAYO SD" tvg-logo="https://graph.facebook.com/viatelevisionperu/picture?width=320&height=320" group-title="PERU",PE37 | VIA ALTOMAYO SD
+http://mivacuna-sispro.info:8888/22/22/72944
+#EXTINF:-1 tvg-id="" tvg-name="PE79 | AUTENTICA TELEVISION " tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",PE79 | AUTENTICA TELEVISION 
+http://mivacuna-sispro.info:8888/22/22/79657
+#EXTINF:-1 tvg-id="" tvg-name="PE82 | LA LUZ TV " tvg-logo="https://graph.facebook.com/LaLuzTv/picture?width=320&height=320" group-title="PERU",PE82 | LA LUZ TV 
+http://mivacuna-sispro.info:8888/22/22/79774
+#EXTINF:-1 tvg-id="" tvg-name="PE61 | MaticesTV" tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="PERU",PE61 | MaticesTV
+http://mivacuna-sispro.info:8888/22/22/79775
+#EXTINF:-1 tvg-id="" tvg-name="PE15 |MILENIUM 49 TV" tvg-logo="http://vplay.club:8888/images/5a1d796ce53de981e8a7dd1136d6606f.png" group-title="PERU",PE15 |MILENIUM 49 TV
+http://mivacuna-sispro.info:8888/22/22/79777
+#EXTINF:-1 tvg-id="exitosa.pe" tvg-name="PE11 | EXITOSA HD" tvg-logo="http://vplay.club:8888/images/0bb6df735be23ed86e5d57592cb4f817.png" group-title="PERU",PE11 | EXITOSA HD
+http://mivacuna-sispro.info:8888/22/22/49718
+#EXTINF:-1 tvg-id="" tvg-name="PE20 | HATUN TV HD" tvg-logo="http://vplay.club:8888/images/03ced1d4fa5d946377a258a9596525b0.png" group-title="PERU",PE20 | HATUN TV HD
+http://mivacuna-sispro.info:8888/22/22/49722
+#EXTINF:-1 tvg-id="" tvg-name="PE41 | TV PALMERAS " tvg-logo="http://vplay.club:8888/images/3e66c0e28e8bf5858ca90147dc4565cd.png" group-title="PERU",PE41 | TV PALMERAS 
+http://mivacuna-sispro.info:8888/22/22/72931
+#EXTINF:-1 tvg-id="" tvg-name="PE70 | GENIOS TV (MOYOBAMBA)" tvg-logo="https://graph.facebook.com/geniostvmoyobamba/picture?width=320&height=320" group-title="PERU",PE70 | GENIOS TV (MOYOBAMBA)
+http://mivacuna-sispro.info:8888/22/22/72832
+#EXTINF:-1 tvg-id="" tvg-name="PE46 | RN TELEVISION (YURIMAGUAS)" tvg-logo="http://vplay.club:8888/images/2f95ab3a7f93bec06cb3cfb5034b383d.png" group-title="PERU",PE46 | RN TELEVISION (YURIMAGUAS)
+http://mivacuna-sispro.info:8888/22/22/72899
+#EXTINF:-1 tvg-id="atvplus.pe" tvg-name="PE07 | ATV + FHD" tvg-logo="http://vplay.club:8888/images/4f23e08444833fbd34268081d2095da3.png" group-title="PERU",PE07 | ATV + FHD
+http://mivacuna-sispro.info:8888/22/22/98224
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="PE18 | ESPN 2 PERU HD" tvg-logo="http://vplay.club:8888/images/dce23e8379c61037592f8307b8df6f96.png" group-title="PERU",PE18 | ESPN 2 PERU HD
+http://mivacuna-sispro.info:8888/22/22/98256
+#EXTINF:-1 tvg-id="tvperu.pe" tvg-name="PE27 | TV PERU SD" tvg-logo="http://vplay.club:8888/images/2b9511ff781e1909498dff553681e335.png" group-title="PERU",PE27 | TV PERU SD
+http://mivacuna-sispro.info:8888/22/22/98258
+#EXTINF:-1 tvg-id="rppnoticias.pe" tvg-name="PE29 | RPP HD" tvg-logo="http://vplay.club:8888/images/e58b7e14fbf510aa5d24b110fba46cdd.png" group-title="PERU",PE29 | RPP HD
+http://mivacuna-sispro.info:8888/22/22/119923
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="PE12 | MOVISTAR DEPORTES CMD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/CMD_%28Peru%29_-_2010-2017_logo.jpg/120px-CMD_%28Peru%29_-_2010-2017_logo.jpg" group-title="PERU",PE12 | MOVISTAR DEPORTES CMD
+http://mivacuna-sispro.info:8888/22/22/70330
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="PE09 | MOVISTAR DEPORTES" tvg-logo="http://vplay.club:8888/images/2f6503a90a37563bde0004f15329aea6.png" group-title="PERU",PE09 | MOVISTAR DEPORTES
+http://mivacuna-sispro.info:8888/22/22/70025
+#EXTINF:-1 tvg-id="" tvg-name="PE22 | DIRECTV PERU HD" tvg-logo="http://vplay.club:8888/images/05edce7a53fbc1b716990013788cc28d.png" group-title="PERU",PE22 | DIRECTV PERU HD
+http://mivacuna-sispro.info:8888/22/22/70021
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PE10 | ATV HD" tvg-logo="http://vplay.club:8888/images/4f23e08444833fbd34268081d2095da3.png" group-title="PERU",PE10 | ATV HD
+http://mivacuna-sispro.info:8888/22/22/49710
+#EXTINF:-1 tvg-id="" tvg-name="PE80 / TV PERU INTERNACIONAL" tvg-logo="http://vplay.club:8888/images/754af47d0606411ade423625865335fd.png" group-title="PERU",PE80 / TV PERU INTERNACIONAL
+http://mivacuna-sispro.info:8888/22/22/120203
+#EXTINF:-1 tvg-id="" tvg-name="PE75 | CLIPS TV (ICA) " tvg-logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" group-title="PERU",PE75 | CLIPS TV (ICA) 
+http://mivacuna-sispro.info:8888/22/22/72817
+#EXTINF:-1 tvg-id="" tvg-name="PE71 | GACETA UCAYALINA" tvg-logo="https://graph.facebook.com/GacetaUcayalinaTelevision/picture?width=320&height=320" group-title="PERU",PE71 | GACETA UCAYALINA
+http://mivacuna-sispro.info:8888/22/22/72830
+#EXTINF:-1 tvg-id="" tvg-name="PE65 | INT TV PERU " tvg-logo="http://chileiptv.cl/img/logos/logo_15214261691.png" group-title="PERU",PE65 | INT TV PERU 
+http://mivacuna-sispro.info:8888/22/22/130500
+#EXTINF:-1 tvg-id="" tvg-name="PE78 | BEST CABLE SPORTS" tvg-logo="http://vplay.club:8888/images/7392373a85e4d7ad521845075bed25a3.png" group-title="PERU",PE78 | BEST CABLE SPORTS
+http://mivacuna-sispro.info:8888/22/22/98264
+#EXTINF:-1 tvg-id="" tvg-name="PE28 | MONTERRICO TV" tvg-logo="http://vplay.club:8888/images/1836f37a44f628441819df237d2a13ca.png" group-title="PERU",PE28 | MONTERRICO TV
+http://mivacuna-sispro.info:8888/22/22/98259
+#EXTINF:-1 tvg-id="atvsur.pe" tvg-name="PE13 | SUR PERU" tvg-logo="http://vplay.club:8888/images/97161c58d38b6f7f9ad4d6c2c5240e5d.png" group-title="PERU",PE13 | SUR PERU
+http://mivacuna-sispro.info:8888/22/22/98288
+#EXTINF:-1 tvg-id="perumagico.pe" tvg-name="PE21 | PERU MAGICO HD" tvg-logo="http://vplay.club:8888/images/5d037f47e5b3bdb722bb69b9e14fad18.png" group-title="PERU",PE21 | PERU MAGICO HD
+http://mivacuna-sispro.info:8888/22/22/49729
+#EXTINF:-1 tvg-id="perumagico.pe" tvg-name="PE26 | PERU MAGICO" tvg-logo="http://vplay.club:8888/images/5d037f47e5b3bdb722bb69b9e14fad18.png" group-title="PERU",PE26 | PERU MAGICO
+http://mivacuna-sispro.info:8888/22/22/132704
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PE02 | AMERICA TV HD " tvg-logo="http://vplay.club:8888/images/9325348602e495ab8328e1bf434e7e07.png" group-title="PERU",PE02 | AMERICA TV HD 
+http://mivacuna-sispro.info:8888/22/22/49706
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="PE25 | PANAMERICANA" tvg-logo="http://vplay.club:8888/images/6b2b32810aae109323055c2bca3ecaa6.png" group-title="PERU",PE25 | PANAMERICANA
+http://mivacuna-sispro.info:8888/22/22/133305
+#EXTINF:-1 tvg-id="movistardeportes.pe" tvg-name="PE04 | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",PE04 | MOVISTAR PLUS
+http://mivacuna-sispro.info:8888/22/22/134940
+#EXTINF:-1 tvg-id="latele.pe" tvg-name="PE16 | LA TELE" tvg-logo="http://vplay.club:8888/images/6b03b8241177d9ae3252de8019af2740.png" group-title="PERU",PE16 | LA TELE
+http://mivacuna-sispro.info:8888/22/22/49723
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PE14 | GOL PERU HD" tvg-logo="http://vplay.club:8888/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="PERU",PE14 | GOL PERU HD
+http://mivacuna-sispro.info:8888/22/22/132544
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PE06 | AMERICA TV SD" tvg-logo="http://vplay.club:8888/images/9325348602e495ab8328e1bf434e7e07.png" group-title="PERU",PE06 | AMERICA TV SD
+http://mivacuna-sispro.info:8888/22/22/141260
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="PE05 | WILLAX TV" tvg-logo="http://vplay.club:8888/images/26cd25601ca68b691d08a6e5643e480e.png" group-title="PERU",PE05 | WILLAX TV
+http://mivacuna-sispro.info:8888/22/22/141684
+#EXTINF:-1 tvg-
 
